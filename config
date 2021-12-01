@@ -27,7 +27,7 @@ alert = ${xrdb:color3:#222}
 [bar/bar1]
 ;monitor = ${env:MONITOR:HDMI-1}
 width = 95%
-height = 34
+height = 40
 offset-x = 2.2%
 offset-y = 0.8%
 radius = 6.5
